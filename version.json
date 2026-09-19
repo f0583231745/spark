@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/f0583231745/spark/releases/download/v1.0.0/MediaDownloaderPro.exe",
-  "notes": "גרסה ראשונה"
+  "version": "1.0.1",
+  "url": "https://github.com/f0583231745/spark/releases/download/v1.0.1/MediaDownloaderPro.exe",
+  "notes": "מנגנון עדכון בטוח וקל יותר (בלי התקנת פייתון על המחשב שלך), תיקון תקלת אימות SSL, תיקון תרגום הודעת FFmpeg, ותיקוני יציבות נוספים."
 }
